@@ -1,9 +1,14 @@
 /* saladstyle.css */
 body {
  color: white;
- background-color: black;
+ background-color: rgba(22, 138, 78, 0.724);
 }
 
 p {
- color: blueviolet;
+ color: rgb(71, 67, 9);
+
+}
+
+li {
+ color: rgb(202, 29, 13);
 }
